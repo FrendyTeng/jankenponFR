@@ -1,0 +1,47 @@
+body {
+	background-image: url(pic/bgGame1.jpg);
+	background-size: cover;
+}
+
+
+
+.center {
+	display: block;
+	margin: auto;
+	text-align: center;
+	color: white;
+	text-transform: uppercase;
+	
+}
+
+.left {
+  margin-left: 100px;
+  float: left;
+  width: 300px;
+  height: 300px;
+  font-size: 30px; 
+  color: orange;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.right {
+  margin-right: 100px;
+  float: right;
+  width: 300px;
+  height: 300px;
+  font-size: 30px;
+  color: orange;
+  font-family: "Lucida Console", Courier, monospace;
+  
+}
+
+h1 {
+	text-align: center;
+}
+
+.versus {
+	color: white;
+	font-size: 100px;
+	text-decoration: bold;
+	
+}
