@@ -1,6 +1,8 @@
 body {
 	background-image: url(pic/bgGame1.jpg);
-	background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+	background-color: black;
 }
 
 
