@@ -149,7 +149,7 @@ function fight() {
 	
 	if (playerHero.hp === 0)
 		{
-			window.alert("You Have been SLAIN!!");
+			window.alert("Congratulation! YOU ARE NOOB!!");
 			
 		}
 	else if (comHero.hp === 0)
@@ -162,7 +162,7 @@ function fight() {
 	
 	
 	
-	let timeleft = 5;
+	let timeleft = 3;
 	let downloadTimer = setInterval(function(){
 		if(timeleft <= 0){
 			clearInterval(downloadTimer);
